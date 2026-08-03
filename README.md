@@ -39,12 +39,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TeoDev2004&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeoDev2004&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeoDev2004&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -52,10 +52,10 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/your-username](https://www.linkedin.com/in/mateo-botero-echeverri-96aa373a4/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mateo-botero-echeverri-96aa373a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mateobdevelop@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank">
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=TeoDev2004&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
